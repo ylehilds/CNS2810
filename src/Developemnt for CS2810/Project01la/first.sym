@@ -1,0 +1,8 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	MyMain                  3000
+//	MyMainEnd               3008
+//	message                 304F
+//	newLine                 3009
+//	template                300A
+//	term                    3030

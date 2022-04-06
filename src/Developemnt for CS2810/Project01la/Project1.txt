@@ -1,0 +1,10 @@
+CS2810-601
+Lehi Alcantara
+Project #1
+
+     "Hello World" 
+
+Program execution terminated!
+
+
+----- Halting the processor ----- 
