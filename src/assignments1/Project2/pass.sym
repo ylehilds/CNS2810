@@ -1,0 +1,10 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	MyMain                  3000
+//	MyMainEnd               302F
+//	array                   3030
+//	message                 3096
+//	newLine                 3035
+//	print                   3036
+//	template                3051
+//	term                    3077

@@ -1,0 +1,14 @@
+CS2810-601
+Lehi Alcantara
+Project #2
+
+Please input a character: A
+Please input a character: B
+Please input a character: C
+Please input a character: D
+
+You input the characters: ABCD
+
+Program execution terminated!
+
+----- Halting the processor ----- 

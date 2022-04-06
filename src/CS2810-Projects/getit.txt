@@ -1,0 +1,22 @@
+CS2810-601
+Lehi Alcantara
+Project #3
+
+Please input a number 0 - 9 : 9 nine
+Please input a number 0 - 9 : 8 eight
+Please input a number 0 - 9 : 7 seven
+Please input a number 0 - 9 :  Error! Your input was a non printable character.
+Please input a number 0 - 9 : 6 six
+Please input a number 0 - 9 : 5 five
+Please input a number 0 - 9 : a Error! You did not input a number.
+Please input a number 0 - 9 : 4 four
+Please input a number 0 - 9 : 3 three
+Please input a number 0 - 9 : 2 two
+Please input a number 0 - 9 : 1 one
+Please input a number 0 - 9 : B Error! You did not input a number.
+Please input a number 0 - 9 : 0 zero
+Please input a number 0 - 9 : ! Done!
+
+Program execution terminated!
+
+----- Halting the processor ----- 

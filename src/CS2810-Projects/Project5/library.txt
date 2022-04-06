@@ -1,0 +1,14 @@
+Trap vectors are set up!
+CS2810-601
+Lehi Alcantara
+Project #5
+Printing array . . .aAbBcC6574839201
+[Sort ascending]Printing array . . .aAbBcC6574839201
+[Sort descending]oPrinting array . . .aAbBcC6574839201
+restore vectors
+Done!
+
+Testing!!
+Register file compare (r1, r2, r3, r4, r5, r6, r7) = 0, 0, K, 0, 0, 0, 0
+Restored Vector compare (xF0, xF1, xF2) = 0, 0, 0
+----- Halting the processor ----- 

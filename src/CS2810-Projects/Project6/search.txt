@@ -1,0 +1,17 @@
+CS2810-601
+Lehi Alcantara
+Project #6
+Looking for the following:    0b10XXXXXX1XXXXX00
+                             @ Addresses 0x4000 to 0x40FF
+MATCH FOUND AT ADRESSES:
+ 0x48CMATCH FOUND AT ADRESSES:
+ 0x48CMATCH FOUND AT ADRESSES:
+ 0x48CMATCH FOUND AT ADRESSES:
+ 0x48CMATCH FOUND AT ADRESSES:
+ 0x48CMATCH FOUND AT ADRESSES:
+ 0x48C
+End of Search
+
+Program execution terminated!
+
+----- Halting the processor ----- 

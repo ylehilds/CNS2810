@@ -1,0 +1,14 @@
+CS2810-601
+Lehi Alcantara
+Project #4
+
+Input a message to be analyzed: Assembly + Language is for me, 123!
+Numbers: 3
+Upper Case: 2
+Lower Case: > 9
+Spaces: 6
+All Others: 3
+
+Program execution terminated!
+
+----- Halting the processor ----- 
